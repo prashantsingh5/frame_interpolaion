@@ -1,0 +1,1 @@
+python inference_video.py --exp=1 --video=C:/Users/pytorch/Desktop/frame_interpolation/video.mp4 --output=C:/Users/pytorch/Desktop/frame_interpolation/output.mp4 --fps=60
